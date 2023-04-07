@@ -1,0 +1,5 @@
+Utilisateurs		Parties jouées	Parties gagnées	Parties perdus	Points totales	Points moyens/partie
+Robot1				1004		340		664		42704		42,5339
+Robot2				1004		384		620		41909		41,742
+Robot3				1004		135		869		53984		53,7689
+Robot4				1004		145		859		52910		52,6992
